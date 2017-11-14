@@ -1,1 +1,1 @@
-# myWorkouApp
+# myWorkoutApp
