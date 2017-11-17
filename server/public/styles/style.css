@@ -1,0 +1,40 @@
+body {
+    /* background-image: url(/views/images/Background.jpg); */
+}
+
+.navbar {
+    opacity: .70;
+}
+
+p {
+    /* color: white; */
+}
+
+.muscle {
+    opacity: .90;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: rgb(184, 192, 194);
+}
+
+.inputBox {
+    /* background-color: snow; */
+}
+
+.navActive:hover {
+    background-color: grey;
+}
+
+.btn {
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.imgClick {
+    cursor: pointer;
+}
+
+.carddemoBasicUsage .card-media {
+    background-color: #999999; }
